@@ -14,7 +14,7 @@ tested-with:         GHC ==7.4.2
 
 source-repository head
   type:                git
-  location:            https://github.com/notogawa/fluent-logger-haskell.git
+  location:            https://github.com/notogawa/fluent-logger-conduit.git
 
 library
   exposed-modules:     Network.Fluent.Conduit
